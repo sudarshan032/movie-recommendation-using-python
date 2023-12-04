@@ -58,14 +58,16 @@ To use the recommendation system:
   
 
 1. Clone the repository: `git clone https://github.com/your-username/movie-recommendation.git`
+2. Heres the link to download the dataset https://www.kaggle.com/datasets/harshitshankhdhar/imdb-dataset-of-top-1000-movies-and-tv-shows/download?datasetVersionNumber=1
+3. Heres the link for website of dataset https://www.kaggle.com/datasets/harshitshankhdhar/imdb-dataset-of-top-1000-movies-and-tv-shows
 
-2. Navigate to the project directory: `cd movie-recommendation`
+4. Navigate to the project directory: `cd movie-recommendation`
 
-3. Run the recommendation script: `python recommend.py`
+5. Run the recommendation script: `python recommend.py`
 
-4. Enter the title of a movie when prompted.
+6. Enter the title of a movie when prompted.
 
-5. Receive a list of recommended movies based on content similarity.
+7. Receive a list of recommended movies based on content similarity.
 
   
 
